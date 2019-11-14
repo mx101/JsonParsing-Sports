@@ -1,5 +1,3 @@
-# Serialized Sportsball
-
-Assignment documentation is here: https://courses.grainger.illinois.edu/cs126/fa2019/assignments/serialized-sportsball
-
-Good luck!
+# Json Parsing
+### A demonstration in parsing Json files for information
+### Takes an input file representing a sports game and parses through for game information i.e. goals, assists, mvp etc
